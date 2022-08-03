@@ -68,7 +68,7 @@ public class NetworkTraffic extends TextView {
     private static final int MESSAGE_TYPE_ADD_NETWORK = 2;
     private static final int MESSAGE_TYPE_REMOVE_NETWORK = 3;
 
-    private static final int REFRESH_INTERVAL = 2000;
+    private static final int REFRESH_INTERVAL = 1000;
 
     private static final int UNITS_KILOBITS = 0;
     private static final int UNITS_MEGABITS = 1;
